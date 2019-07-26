@@ -24,7 +24,7 @@
 | HTTP Method   | Endpoint                   | Description                                         |
 |:--------------|:---------------------------|:----------------------------------------------------|
 | GET           | /api/:listingid/amenities  | Returns all amenities for a specific listing        |
-| POST          | /api/:listingid/amenities  | Add amenities for a specific listing                |
+| POST          | /api/amenities             | Add amenities for a specific listing                |
 | PUT           | /api/:listingid/amenities  | Update and replace amenities for a specific listing |
 | PATCH         | /api/:listingid/amenities  | Update and modify amenities of a specific listing   |
 | DELETE        | /api/:listingid/amenities  | Remove amenities for a specific listing             |
