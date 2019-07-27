@@ -21,18 +21,17 @@ const createListingData = () => {
   }
   return `${companyName}, ${faker.address.city()}, ${spaceDescIntro}, ${spaceDesc}, ${guestAccessDesc}, ${othersDesc}, ${'STR-0000' + faker.random.number({min: 100, max: 999})}, ${spaceType}, ${faker.random.number({min: 1, max: 6})}, ${faker.lorem.sentence()}, ${faker.random.number({min: 1, max: 3})}, ${faker.random.number({min: 1, max: 2})}\n`
 }
-
 // Write the data to the supplied writable stream one million times.
 // Be attentive to back-pressure.
 function writeListingTenMillionTimes(writer, data, encoding, callback) {
   console.time('writeListingTenMillionTimes');
-  let i = 10;
+  let i = 1000000;
   write();
   function write() {
     let ok = true;
     do {
       i--;
-      if (i === 0) {
+      if (i === 1) {
         // Last time!
         console.timeEnd('writeListingTenMillionTimes');
         writer.write(data(), encoding, callback);
@@ -51,20 +50,20 @@ function writeListingTenMillionTimes(writer, data, encoding, callback) {
 }
 writeListingTenMillionTimes(listingWriter, createListingData, 'utf8');
 
-let j = 11;
+let j = 1000001;
 const createUserData = () => {
   j--;
   return `${j}, ${faker.name.findName()}, ${faker.internet.userName()}, ${faker.random.boolean()}\n`
 }
 function writeUserTenMillionTimes(writer, data, encoding, callback) {
   console.time('writeUserTenMillionTimes');
-  let i = 10;
+  let i = 1000000;
   write();
   function write() {
     let ok = true;
     do {
       i--;
-      if (i === 0) {
+      if (i === 1) {
         // Last time!
         console.timeEnd('writeUserTenMillionTimes');
         writer.write(data(), encoding, callback);
@@ -84,7 +83,7 @@ function writeUserTenMillionTimes(writer, data, encoding, callback) {
 }
 writeUserTenMillionTimes(userWriter, createUserData, 'utf8');
 
-let k = 11;
+let k = 1000001;
 const createHighlightData = () => {
   k--;
   let reviewHighlight = faker.lorem.sentence(4);
@@ -95,13 +94,13 @@ const createHighlightData = () => {
 }
 function writeHighlightTenMillionTimes(writer, data, encoding, callback) {
   console.time('writeHighlightTenMillionTimes');
-  let i = 10;
+  let i = 1000000;
   write();
   function write() {
     let ok = true;
     do {
       i--;
-      if (i === 0) {
+      if (i === 1) {
         // Last time!
         console.timeEnd('writeHighlightTenMillionTimes');
         writer.write(data(), encoding, callback);

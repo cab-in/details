@@ -5,7 +5,7 @@ CREATE DATABASE cabin;
 CREATE TABLE listings(
   id SERIAL PRIMARY KEY,
   title varchar(100) NOT NULL,
-  location varchar(30) NOT NULL,
+  location varchar(50) NOT NULL,
   spaceDescIntro text NOT NULL,
   spaceDesc text NOT NULL,
   guestAccessDesc text,
@@ -21,8 +21,8 @@ CREATE TABLE listings(
 CREATE TABLE users(
   id SERIAL PRIMARY KEY,
   listing_id INT REFERENCES listings(id),
-  name varchar(30) NOT NULL,
-  username varchar(30) NOT NULL,
+  name varchar(50) NOT NULL,
+  username varchar(50) NOT NULL,
   host BOOLEAN NOT NULL
 );
 
