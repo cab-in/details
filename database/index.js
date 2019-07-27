@@ -1,3 +1,15 @@
+// const pgp = require('pg-promise')(/* options */)
+// const db = pgp('postgres://username:password@host:port/database')
+
+// var cn = {
+//   host: 'localhost', // server name or IP address;
+//   port: 5432,
+//   database: 'listings',
+//   user: 'myUser',
+//   password: 'myPassword'
+// };
+
+
 //database
 
 
@@ -42,3 +54,6 @@ module.exports.Amenity = Amenity;
 module.exports.findDesc = findDesc;
 module.exports.findAmen = findAmen;
 module.exports.mongoose = mongoose;
+
+
+
