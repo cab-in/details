@@ -14,21 +14,25 @@
 | HTTP Method   | Endpoint                | Description                                       |
 |:--------------|:------------------------|:--------------------------------------------------|
 | GET           | /api/:listingid/details | Return details about a specific listing           |
-| POST          | /api/details            | Create a new listing                              |
+| POST          | /api/:listingid/details | Create details for a specific listing             |
 | PUT           | /api/:listingid/details | Update and replace details for a specific listing |
-| PATCH         | /api/:listingid/details | Update and modify details for a specific listing  |
 | DELETE        | /api/:listingid/details | Remove details for a specific listing             |
-
 
 ### Amenities
 | HTTP Method   | Endpoint                   | Description                                         |
 |:--------------|:---------------------------|:----------------------------------------------------|
 | GET           | /api/:listingid/amenities  | Returns all amenities for a specific listing        |
-| POST          | /api/amenities             | Add amenities for a specific listing                |
+| POST          | /api/:listingid/amenities  | Add amenities for a specific listing                |
 | PUT           | /api/:listingid/amenities  | Update and replace amenities for a specific listing |
-| PATCH         | /api/:listingid/amenities  | Update and modify amenities of a specific listing   |
 | DELETE        | /api/:listingid/amenities  | Remove amenities for a specific listing             |
 
+### Highlights
+| HTTP Method   | Endpoint                    | Description                                          |
+|:--------------|:----------------------------|:-----------------------------------------------------|
+| GET           | /api/:listingid/highlights  | Returns all highlights for a specific listing        |
+| POST          | /api/:listingid/highlights  | Add highlights for a specific listing                |
+| PUT           | /api/:listingid/highlights  | Update and replace highlights for a specific listing |
+| DELETE        | /api/:listingid/highlights  | Remove highlights for a specific listing             |
 
 ## Requirements
 

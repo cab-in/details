@@ -1,4 +1,8 @@
 node_modules
-highlightData.csv
-listingData.csv
-userData.csv
+amenities.csv
+highlights.csv
+hosts.csv
+listings_amenities.csv
+listings_highlights.csv
+listings.csv
+spaces.csv
