@@ -56,7 +56,7 @@ CREATE TABLE spaces(
 /*
 POSTGRES COPY COMMANDS 
 
-\copy listings (title, location, hosts_id, spaces_id, max_guests, room_number, bed_number, bed_type, bath_number, spaceDescIntro, spaceDesc, guestAccessDesc, guestInteraction, others, license) FROM '/Users/Kenny/Listing/listings.csv' DELIMITER ',' CSV;
+\copy listings (title, location, hosts_id, spaces_id, max_guests, room_number, bed_number, bed_type, bath_number, spaceDescIntro, spaceDesc, guestAccessDesc, guestInteraction, others, license) FROM '/Users/Kenny/Listing/listings1.csv' DELIMITER ',' CSV;
 \copy hosts (name, pic) FROM '/Users/Kenny/Listing/hosts.csv' DELIMITER ',' CSV;
 \copy listings_highlights (listings_id, highlights_id) FROM '/Users/Kenny/Listing/listings_highlights.csv' DELIMITER ',' CSV;
 \copy highlights (highlights_type) FROM '/Users/Kenny/Listing/highlights.csv' DELIMITER ',' CSV;
@@ -69,12 +69,12 @@ POSTGRES COPY COMMANDS
 /*
 POSTGRES ADD FOREIGN KEY TO EXISTING TABLE
 
-alter table listings add constraint fk_links_listings_hosts foreign key (hosts_id) references hosts(id);
-alter table listings add constraint fk_links_listings_spaces foreign key (spaces_id) references spaces(id);
-alter table listings_highlights add constraint fk_links_listings_highlights_listings foreign key (listings_id) references listings(id);
-alter table listings_highlights add constraint fk_links_listings_highlights_highlights foreign key (highlights_id) references highlights(id);
-alter table listings_amenities add constraint fk_links_listings_amenities_listings foreign key (listings_id) references listings(id);
-alter table listings_amenities add constraint fk_links_listings_amenities_amenities foreign key (amenities_id) references amenities(id);
+alter table listings add constraint fk_links_listings_hosts foreign key (hosts_id) references hosts(id) DEFERRABLE INITIALLY DEFERRED;
+alter table listings add constraint fk_links_listings_spaces foreign key (spaces_id) references spaces(id) DEFERRABLE INITIALLY DEFERRED;
+alter table listings_highlights add constraint fk_links_LH_listings foreign key (listings_id) references listings(id);
+alter table listings_highlights add constraint fk_links_LH_highlights foreign key (highlights_id) references highlights(id);
+alter table listings_amenities add constraint fk_links_LA_listings foreign key (listings_id) references listings(id);
+alter table listings_amenities add constraint fk_links_LA_amenities foreign key (amenities_id) references amenities(id);
 */
 
 /*
@@ -94,7 +94,12 @@ POSTGRES INDEXING
 
 dish_restaurant_photo_desc ====> IS A VARIABLE NAME
 
-- CREATE INDEX dish_restaurant_photo_desc ON popular_dish(restaurant_id, photo_count DESC);
+- CREATE INDEX idx_LA_listings ON listings_amenities(listings_id);
+
+CREATE INDEX idx_LA_listings ON listings_amenities(listings_id);
+CREATE INDEX idx_LA_amenities ON listings_amenities(amenities_id);
+CREATE INDEX idx_LH_listings ON listings_highlights(listings_id);
+CREATE INDEX idx_LH_highlights ON listings_highlights(highlights_id);
 
 
 
@@ -116,6 +121,9 @@ HIGHLIGHTS QUERY W/ ALL LISTINGS DETAILS (minimal amount of duplicates)
     inner join
       highlights as H
       on LH.highlights_id = H.id
+    inner join
+      listings_amenities as LA
+      on LH.listings_id = LA.listings_id
     where 
       L.id = 9999901;
   
@@ -129,7 +137,7 @@ AMENITIES QUERY
       listings_amenities as LA
       on LA.amenities_id = amenities.id
     where
-      LA.listings_id = 9999901;
+      LA.listings_id =9799901;
 
 HIGHLIGHTS QUERY
   
@@ -141,7 +149,7 @@ HIGHLIGHTS QUERY
       listings_highlights as LH
       on LH.highlights_id = highlights.id
     where
-      LH.listings_id = 9999901;
+      LH.listings_id = 9299901;
 
 LISTINGS QUERY
 
@@ -150,7 +158,7 @@ LISTINGS QUERY
     from
       listings
     where
-      listings.id = 9999901;
+      listings.id = 9399901;
 
 LISTINGS QUERY BY HIGHLIGHTS
 
@@ -175,5 +183,8 @@ LISTINGS QUERY BY AMENITIES
       on LA.listings_id = listings.id
     where
       LA.amenities_id = 1 limit 100;
+
+
+    insert into listings (title, location, hosts_id, spaces_id, max_guests, room_number, bed_number, bed_type, bath_number, spaceDescIntro, spaceDesc, guestAccessDesc, guestInteraction, others, license) values ('esmes hacker house', 'san francisco', 4, 3, 4, 3, 2, twin, 2, 'six rounds of text here', 'five left', 'dont wanna do this', 'three left', 'two', 'one')
 
 */

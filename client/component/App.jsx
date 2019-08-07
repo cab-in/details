@@ -27,10 +27,11 @@ class App extends React.Component {
         const parts = window.location.href.split('/');
         const id = parts[parts.length - 2];
         $.ajax({
-            method:'GET',
-            url: `/listing/desc/${id}`,
+            method:'POST',
+            url: `/api/${id}/details`,
             contentType: 'application/json',
             success: (desc)=>{
+              console.log(desc)
                 this.setState({
                     title: desc.title,
                     location: desc.location,
