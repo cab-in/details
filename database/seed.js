@@ -1,13 +1,14 @@
 const faker = require('faker');
 
 const fs = require('fs');
-const listingWriter = fs.createWriteStream('listings1.csv');
+const listingWriter = fs.createWriteStream('listings2.csv');
 // const hostWriter = fs.createWriteStream('hosts.csv');
 // const listingsHighlightsWriter = fs.createWriteStream('listings_highlights.csv');
 // const highlightWriter = fs.createWriteStream('highlights.csv');
 // const listingsAmenitiesWriter = fs.createWriteStream('listings_amenities.csv');
 // const amenityWriter = fs.createWriteStream('amenities.csv');
 // const spaceWriter = fs.createWriteStream('spaces.csv');
+
 
 let j = 10000001;
 const createListingData = () => {
@@ -49,8 +50,8 @@ function writeListingTenMillionTimes(writer, data, encoding, callback) {
         // Don't pass the callback, because we're not done yet.
         ok = writer.write(data(), encoding);
       }
-    } while (i > 0 && ok);
-    if (i > 0) {
+    } while (i > 9000000 && ok);
+    if (i > 9000000) {
       // Had to stop early!
       // Write some more once it drains.
       writer.once('drain', write);

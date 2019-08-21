@@ -77,3 +77,5 @@ module.exports = {
   updateListing,
   deleteListing
 }
+
+// ALTER USER postgres WITH PASSWORD 'password';

@@ -1,4 +1,4 @@
-# Details
+# Cab-in
 
 > Component to display details and amenities for each listing.
 

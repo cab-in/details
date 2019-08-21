@@ -18,7 +18,8 @@ function cache(req, res, next) {
       if (err) throw err;
 
       if (data != null) {
-          res.send(JSON.parse(data));
+        console.log('sent from cache')
+        res.send(JSON.parse(data));
       } else {
           next();
       }
@@ -46,4 +47,12 @@ app.listen(port, () => console.log(`Example app listening on port ${port}!`));
 
 
 
-// scp -i /Users/Kenny/Downloads/Cabin_Listings.pem /Users/Kenny/Listing/hosts.csv ec2-user@ec2-18-191-120-188.us-east-2.compute.amazonaws.com:.
+// scp -i /Users/Kenny/Downloads/Cabin_Listings.pem /Users/Kenny/Listing/listings1.csv ec2-user@ec2-3-14-80-124.us-east-2.compute.amazonaws.com:.
+
+
+// scp -i /Users/Kenny/Downloads/Cabin_Listings_Service5.pem /Users/Kenny/Downloads/loaderio-557041e69178d45b366696985eac4b68.txt ec2-user@ec2-18-218-196-208.us-east-2.compute.amazonaws.com:.
+
+
+// router.get('/loaderio-557041e69178d45b366696985eac4b68', (req, res) => {
+//   res.sendFile('/home/ec2-user.loaderio-557041e69178d45b366696985eac4b68.txt');
+// });

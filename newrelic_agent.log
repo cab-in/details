@@ -6643,3 +6643,559 @@
 {"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":25885,"time":"2019-08-07T00:00:44.157Z","msg":"Harvest finished."}
 {"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":25885,"time":"2019-08-07T00:01:43.889Z","msg":"Harvest started."}
 {"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":25885,"time":"2019-08-07T00:01:44.369Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":28939,"time":"2019-08-07T06:09:25.561Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":28939,"time":"2019-08-07T06:09:25.816Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":28939,"time":"2019-08-07T06:09:26.044Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":28939,"time":"2019-08-07T06:09:26.044Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":28939,"time":"2019-08-07T06:09:28.424Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":28939,"time":"2019-08-07T06:09:28.424Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BZ37Ct-RFLJVACUdFRORswddSmt0AAgBAAAnIQEAAHELAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":28939,"time":"2019-08-07T06:09:28.424Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":28939,"time":"2019-08-07T06:09:28.434Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":28939,"time":"2019-08-07T06:09:29.435Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":28939,"time":"2019-08-07T06:09:29.686Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29301,"time":"2019-08-07T06:26:49.050Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29301,"time":"2019-08-07T06:26:49.314Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29301,"time":"2019-08-07T06:26:49.536Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29301,"time":"2019-08-07T06:26:49.536Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29301,"time":"2019-08-07T06:26:51.916Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29301,"time":"2019-08-07T06:26:51.916Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BbM_U06lj_RMACUdFRORswddSm9wAAgBAAAnIQEAAHJ1AgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29301,"time":"2019-08-07T06:26:51.916Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29301,"time":"2019-08-07T06:26:51.929Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29301,"time":"2019-08-07T06:26:52.934Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29301,"time":"2019-08-07T06:26:53.203Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29378,"time":"2019-08-07T06:28:31.115Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29378,"time":"2019-08-07T06:28:31.382Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29378,"time":"2019-08-07T06:28:31.686Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29378,"time":"2019-08-07T06:28:31.687Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29378,"time":"2019-08-07T06:28:33.796Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29378,"time":"2019-08-07T06:28:33.797Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BZrVHp2djUlwACUdFRORswddSm_oAAgBAAAnIQEAAHLCAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29378,"time":"2019-08-07T06:28:33.797Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29378,"time":"2019-08-07T06:28:33.816Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29378,"time":"2019-08-07T06:28:34.819Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29378,"time":"2019-08-07T06:28:35.066Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:36:03.117Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:36:03.314Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:36:03.541Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:36:03.542Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:36:05.703Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:36:05.704Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BSGGVHu7RsQmACUdFRORswddSnHIAAgBAAAnIQEAAHOQAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:36:05.704Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:36:05.733Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:36:06.737Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:36:06.988Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:37:06.743Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":29584,"time":"2019-08-07T06:37:07.050Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:11:26.435Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:11:26.690Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:11:26.887Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:11:26.887Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:11:29.054Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:11:29.055Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BWFKAgPaa2HpACUdFRORswddSwacAAgBAAAnIQEAAAWIAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:11:29.055Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:11:29.069Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:11:30.072Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:11:30.340Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:12:30.077Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:12:30.354Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:13:30.083Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:13:30.359Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:14:30.088Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:14:30.333Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:15:30.118Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:15:30.305Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:16:30.121Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:16:30.377Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:17:30.130Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1416,"time":"2019-08-07T17:17:30.381Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:19:21.303Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:19:21.538Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:19:21.751Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:19:21.751Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:19:23.693Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:19:23.694Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BWaB8fqPISPDACUdFRORswddSwh8AAgBAAAnIQEAAAcBAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:19:23.694Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:19:23.704Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:19:24.709Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:19:24.986Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:20:24.714Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1793,"time":"2019-08-07T17:20:24.966Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1878,"time":"2019-08-07T17:27:18.669Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1878,"time":"2019-08-07T17:27:18.891Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1878,"time":"2019-08-07T17:27:19.073Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1878,"time":"2019-08-07T17:27:19.074Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1878,"time":"2019-08-07T17:27:21.234Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1878,"time":"2019-08-07T17:27:21.234Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BXOh4CfKd3qWACUdFRORswddSwpcAAgBAAAnIQEAAAdWAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1878,"time":"2019-08-07T17:27:21.234Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1878,"time":"2019-08-07T17:27:21.245Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1878,"time":"2019-08-07T17:27:22.246Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1878,"time":"2019-08-07T17:27:22.522Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1970,"time":"2019-08-07T17:28:17.217Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1970,"time":"2019-08-07T17:28:17.445Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1970,"time":"2019-08-07T17:28:17.622Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1970,"time":"2019-08-07T17:28:17.622Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1970,"time":"2019-08-07T17:28:20.091Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1970,"time":"2019-08-07T17:28:20.092Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BXMNZPexMfmWACUdFRORswddSwqYAAgBAAAnIQEAAAeyAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1970,"time":"2019-08-07T17:28:20.092Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":1970,"time":"2019-08-07T17:28:20.100Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2100,"time":"2019-08-07T17:39:54.867Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2100,"time":"2019-08-07T17:39:55.118Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2100,"time":"2019-08-07T17:39:55.366Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2100,"time":"2019-08-07T17:39:55.366Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2100,"time":"2019-08-07T17:39:57.809Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2100,"time":"2019-08-07T17:39:57.810Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID Beb_nAWuzk6_ACUdFRORswddSw0sAAgBAAAnIQEAAAg0AgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2100,"time":"2019-08-07T17:39:57.811Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2100,"time":"2019-08-07T17:39:57.824Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2100,"time":"2019-08-07T17:39:58.829Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2100,"time":"2019-08-07T17:39:59.096Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2175,"time":"2019-08-07T17:40:26.536Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2175,"time":"2019-08-07T17:40:26.765Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2175,"time":"2019-08-07T17:40:26.989Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2175,"time":"2019-08-07T17:40:26.989Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2175,"time":"2019-08-07T17:40:29.343Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2175,"time":"2019-08-07T17:40:29.344Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BQMTI7zKfYhkACUdFRORswddSw1oAAgBAAAnIQEAAAh_AgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2175,"time":"2019-08-07T17:40:29.344Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2175,"time":"2019-08-07T17:40:29.354Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2175,"time":"2019-08-07T17:40:30.360Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2175,"time":"2019-08-07T17:40:30.636Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2257,"time":"2019-08-07T17:41:46.009Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2257,"time":"2019-08-07T17:41:46.227Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2257,"time":"2019-08-07T17:41:46.420Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2257,"time":"2019-08-07T17:41:46.420Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2257,"time":"2019-08-07T17:41:48.894Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2257,"time":"2019-08-07T17:41:48.895Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BQHE0YShfwuyACUdFRORswddSw2kAAgBAAAnIQEAAAjRAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2257,"time":"2019-08-07T17:41:48.895Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2257,"time":"2019-08-07T17:41:48.905Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2307,"time":"2019-08-07T17:43:10.155Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2307,"time":"2019-08-07T17:43:10.394Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2307,"time":"2019-08-07T17:43:10.688Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2307,"time":"2019-08-07T17:43:10.688Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2307,"time":"2019-08-07T17:43:12.689Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2307,"time":"2019-08-07T17:43:12.690Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BfN-ptCXDPOTACUdFRORswddSw4cAAgBAAAnIQEAAAkDAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2307,"time":"2019-08-07T17:43:12.690Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2307,"time":"2019-08-07T17:43:12.702Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2307,"time":"2019-08-07T17:43:13.708Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2307,"time":"2019-08-07T17:43:14.033Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2358,"time":"2019-08-07T17:44:25.373Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2358,"time":"2019-08-07T17:44:25.640Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2358,"time":"2019-08-07T17:44:25.883Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2358,"time":"2019-08-07T17:44:25.884Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2430,"time":"2019-08-07T17:46:00.068Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2430,"time":"2019-08-07T17:46:00.292Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2430,"time":"2019-08-07T17:46:00.504Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2430,"time":"2019-08-07T17:46:00.505Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2430,"time":"2019-08-07T17:46:02.703Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2430,"time":"2019-08-07T17:46:02.704Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BTc8N92jIOITACUdFRORswddSw7QAAgBAAAnIQEAAAl-AgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2430,"time":"2019-08-07T17:46:02.704Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2430,"time":"2019-08-07T17:46:02.725Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2430,"time":"2019-08-07T17:46:03.729Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2430,"time":"2019-08-07T17:46:03.991Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2494,"time":"2019-08-07T17:46:59.470Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2494,"time":"2019-08-07T17:46:59.690Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2494,"time":"2019-08-07T17:46:59.914Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2494,"time":"2019-08-07T17:46:59.915Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2494,"time":"2019-08-07T17:47:02.251Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2494,"time":"2019-08-07T17:47:02.251Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID Bf7jthS4rpgkACUdFRORswddSw8MAAgBAAAnIQEAAAm-AgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2494,"time":"2019-08-07T17:47:02.251Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2494,"time":"2019-08-07T17:47:02.262Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2494,"time":"2019-08-07T17:47:03.270Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2494,"time":"2019-08-07T17:47:03.551Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2525,"time":"2019-08-07T17:48:36.235Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2525,"time":"2019-08-07T17:48:36.469Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2525,"time":"2019-08-07T17:48:36.646Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2525,"time":"2019-08-07T17:48:36.647Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2525,"time":"2019-08-07T17:48:38.800Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2525,"time":"2019-08-07T17:48:38.800Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BUoxKELoohjAACUdFRORswddSw9IAAgBAAAnIQEAAAndAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2525,"time":"2019-08-07T17:48:38.800Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2525,"time":"2019-08-07T17:48:38.811Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2525,"time":"2019-08-07T17:48:39.812Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2525,"time":"2019-08-07T17:48:40.068Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:50:30.330Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:50:30.532Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:50:30.761Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:50:30.762Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:50:33.035Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:50:33.036Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BTTkOo7qxozIACUdFRORswddSw_AAAgBAAAnIQEAAAovAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:50:33.036Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:50:33.047Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:50:34.053Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:50:34.313Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:51:34.060Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:51:34.402Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:52:34.065Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:52:34.313Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:53:34.068Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:53:34.336Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:54:34.075Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:54:34.343Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:55:34.082Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:55:34.351Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:56:34.089Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:56:34.375Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:57:34.100Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:57:34.350Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:58:34.114Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:58:34.396Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:59:34.120Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T17:59:34.312Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:00:34.141Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:00:34.411Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:01:34.146Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:01:34.420Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:02:34.152Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:02:34.352Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:03:34.157Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:03:34.427Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:04:34.164Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:04:34.441Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:05:34.171Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:05:34.451Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:06:34.177Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:06:34.366Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:07:34.181Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:07:34.433Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:08:34.189Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:08:35.401Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:09:34.197Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:09:34.522Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:10:34.204Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:10:34.454Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:11:34.207Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:11:34.395Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:12:34.214Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:12:34.409Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:13:34.221Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":2607,"time":"2019-08-07T18:13:34.501Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:16:35.653Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:16:35.886Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:16:36.081Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:16:36.081Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:16:38.537Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:16:38.537Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BWkTsIXtBZNRACUdFRORswddSxXYAAgBAAAnIQEAAAyzAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:16:38.537Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:16:38.549Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:16:39.552Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:16:39.850Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:17:39.557Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:17:39.831Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:18:39.561Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:18:40.182Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:19:39.566Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":3251,"time":"2019-08-07T18:19:39.835Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:22:23.067Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:22:23.321Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:22:23.518Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:22:23.518Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:22:26.173Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:22:26.173Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BQNEd2a8QbgnACUdFRORswddS3mwAAgBAAAnIQEAAB5IAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:22:26.173Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:22:26.199Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:22:27.200Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:22:27.459Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:23:27.208Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:23:27.538Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:24:27.214Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:24:27.467Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:25:27.217Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:25:27.473Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:26:27.223Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:26:27.477Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:27:27.230Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:27:27.496Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:28:27.235Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:28:27.490Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:29:27.264Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:29:27.919Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:30:27.380Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:30:27.682Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:31:27.391Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:31:27.647Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:32:27.398Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:32:27.670Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:33:27.405Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:33:27.674Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:34:27.412Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:34:27.685Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:35:27.420Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:35:27.696Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:36:27.423Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:36:27.697Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:37:27.428Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:37:27.690Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:38:27.436Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:38:27.711Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:39:27.441Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:39:27.712Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:40:27.448Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:40:27.718Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:41:27.455Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:41:27.709Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:42:27.458Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:42:27.725Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:43:27.464Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:43:27.710Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:44:27.467Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:44:27.721Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:45:27.399Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:45:28.003Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:46:27.403Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:46:27.676Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:47:27.415Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:47:27.668Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:48:27.428Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:48:27.677Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:49:27.440Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:49:27.691Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:50:27.445Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:50:27.727Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:51:27.447Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:51:27.711Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:52:27.449Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:52:27.702Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:53:27.452Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:53:27.652Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:54:27.459Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:54:27.724Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:55:27.462Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:55:27.735Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:56:27.467Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:56:27.874Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:57:27.470Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:57:27.673Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:58:27.478Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:58:27.744Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:59:27.483Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T01:59:27.755Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:00:27.493Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:00:27.762Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:01:27.502Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:01:27.750Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:02:27.504Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:02:27.780Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:03:27.512Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:03:27.793Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:04:27.518Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:04:27.793Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:05:27.520Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:05:27.772Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:06:27.524Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:06:27.791Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:07:27.529Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:07:27.791Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:08:27.530Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:08:27.728Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:09:27.532Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:09:27.999Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:10:27.539Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:10:27.751Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:11:27.542Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:11:27.858Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:12:27.545Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:12:27.828Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:13:27.552Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:13:27.826Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:14:27.559Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:14:27.832Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:15:27.570Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:15:27.819Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:16:27.580Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:16:27.890Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:17:27.588Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:17:27.832Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:18:27.596Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:18:27.849Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:19:27.604Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:19:27.879Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:20:27.611Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:20:27.815Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:21:27.618Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:21:27.890Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:22:27.626Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:22:27.904Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:23:27.632Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:23:27.977Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:24:27.640Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:24:27.912Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:25:27.644Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:25:27.892Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:26:27.647Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:26:27.917Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:27:27.650Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:27:27.934Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:28:27.660Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:28:27.911Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:29:27.664Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:29:27.858Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:30:27.680Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:30:27.865Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:31:27.689Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:31:27.964Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:32:27.697Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:32:27.962Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:33:27.705Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:33:27.950Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:34:27.712Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:34:27.984Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:35:27.720Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:35:28.474Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:36:27.726Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:36:27.998Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:37:27.731Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:37:27.983Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:38:27.740Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:38:27.998Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:39:27.745Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:39:27.996Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:40:27.750Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:40:28.039Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:41:27.765Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:41:28.039Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:42:27.769Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:42:28.030Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:43:27.777Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:43:27.970Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:44:27.782Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:44:28.045Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:45:27.798Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:45:28.473Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:46:27.807Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:46:28.066Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:47:27.814Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7752,"time":"2019-08-08T02:47:28.071Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:41:01.935Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:41:02.214Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:41:02.416Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:41:02.416Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:41:04.719Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:41:04.719Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BVg-XFbNurasACUdFRORswddU3U0AAgBAAAnIQEAAB4dAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:41:04.719Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:41:04.733Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:41:05.738Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:41:06.011Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:42:05.746Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:42:06.136Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:43:05.751Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7709,"time":"2019-08-14T02:43:06.075Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:43:07.060Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:43:07.283Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:43:07.516Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:43:07.516Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:43:09.742Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:43:09.743Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BX5PSCaBZg7vACUdFRORswddU3WsAAgBAAAnIQEAAB5CAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:43:09.743Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:43:09.754Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:43:10.761Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:43:11.107Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:44:10.769Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7746,"time":"2019-08-14T02:44:11.163Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7786,"time":"2019-08-14T02:45:02.691Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7786,"time":"2019-08-14T02:45:02.896Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7786,"time":"2019-08-14T02:45:03.077Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7786,"time":"2019-08-14T02:45:03.077Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7786,"time":"2019-08-14T02:45:05.316Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7786,"time":"2019-08-14T02:45:05.316Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID Bbhr0Pf_qutYACUdFRORswddU3YkAAgBAAAnIQEAAB5qAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7786,"time":"2019-08-14T02:45:05.317Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7786,"time":"2019-08-14T02:45:05.328Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7786,"time":"2019-08-14T02:45:06.330Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7786,"time":"2019-08-14T02:45:06.756Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7814,"time":"2019-08-14T02:45:42.630Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7814,"time":"2019-08-14T02:45:42.850Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7814,"time":"2019-08-14T02:45:43.104Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7814,"time":"2019-08-14T02:45:43.105Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7814,"time":"2019-08-14T02:45:45.285Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7814,"time":"2019-08-14T02:45:45.285Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID Bda9ZgnPEKNHACUdFRORswddU3YkAAgBAAAnIQEAAB6GAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7814,"time":"2019-08-14T02:45:45.285Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7814,"time":"2019-08-14T02:45:45.295Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7814,"time":"2019-08-14T02:45:46.297Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7814,"time":"2019-08-14T02:45:46.633Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7856,"time":"2019-08-14T02:46:34.340Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7856,"time":"2019-08-14T02:46:34.564Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7856,"time":"2019-08-14T02:46:34.741Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7856,"time":"2019-08-14T02:46:34.741Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7856,"time":"2019-08-14T02:46:37.243Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7856,"time":"2019-08-14T02:46:37.244Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BWofIWKeimqHACUdFRORswddU3ZgAAgBAAAnIQEAAB6wAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7856,"time":"2019-08-14T02:46:37.244Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7856,"time":"2019-08-14T02:46:37.255Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7856,"time":"2019-08-14T02:46:38.256Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7856,"time":"2019-08-14T02:46:38.525Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7922,"time":"2019-08-14T02:48:58.626Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7922,"time":"2019-08-14T02:48:58.841Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7922,"time":"2019-08-14T02:48:59.100Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7922,"time":"2019-08-14T02:48:59.101Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7922,"time":"2019-08-14T02:49:01.367Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7922,"time":"2019-08-14T02:49:01.367Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BS2vRfiDvqARACUdFRORswddU3cUAAgBAAAnIQEAAB7yAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7922,"time":"2019-08-14T02:49:01.367Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7922,"time":"2019-08-14T02:49:01.379Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7922,"time":"2019-08-14T02:49:02.383Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7922,"time":"2019-08-14T02:49:02.659Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:49:23.073Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:49:23.329Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:49:23.593Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:49:23.593Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:49:26.047Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:49:26.047Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BS94aZHvd8NhACUdFRORswddU3cUAAgBAAAnIQEAAB8HAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:49:26.047Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:49:26.059Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:49:27.061Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:49:27.320Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:50:27.066Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:50:27.432Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:51:27.068Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7943,"time":"2019-08-14T02:51:27.336Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:51:33.263Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:51:33.503Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:51:33.746Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:51:33.746Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:51:35.952Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:51:35.952Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BXIs50rnse1KACUdFRORswddU3eMAAgBAAAnIQEAAB84AgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:51:35.952Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:51:35.965Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:51:36.968Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:51:37.311Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:52:36.983Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:52:37.323Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:53:36.987Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:53:37.251Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:54:36.995Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":7992,"time":"2019-08-14T02:54:37.245Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8059,"time":"2019-08-14T02:55:48.455Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8059,"time":"2019-08-14T02:55:48.705Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8059,"time":"2019-08-14T02:55:48.884Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8059,"time":"2019-08-14T02:55:48.885Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8059,"time":"2019-08-14T02:55:51.246Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8059,"time":"2019-08-14T02:55:51.246Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BWvoCu2bu2j3ACUdFRORswddU3h8AAgBAAAnIQEAAB97AgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8059,"time":"2019-08-14T02:55:51.246Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8059,"time":"2019-08-14T02:55:51.258Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8059,"time":"2019-08-14T02:55:52.260Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8059,"time":"2019-08-14T02:55:52.594Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8081,"time":"2019-08-14T02:56:11.200Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8081,"time":"2019-08-14T02:56:11.418Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8081,"time":"2019-08-14T02:56:11.633Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8081,"time":"2019-08-14T02:56:11.634Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8081,"time":"2019-08-14T02:56:13.752Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8081,"time":"2019-08-14T02:56:13.753Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BUlJrMyGU-WNACUdFRORswddU3i4AAgBAAAnIQEAAB-RAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8081,"time":"2019-08-14T02:56:13.753Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8081,"time":"2019-08-14T02:56:13.763Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8081,"time":"2019-08-14T02:56:14.764Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8081,"time":"2019-08-14T02:56:15.018Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8101,"time":"2019-08-14T02:56:55.659Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8101,"time":"2019-08-14T02:56:55.772Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8101,"time":"2019-08-14T02:56:55.978Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8101,"time":"2019-08-14T02:56:55.978Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8101,"time":"2019-08-14T02:56:57.968Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8101,"time":"2019-08-14T02:56:57.969Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BdlCW_DgJSMQACUdFRORswddU3i4AAgBAAAnIQEAAB-lAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8101,"time":"2019-08-14T02:56:57.969Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8101,"time":"2019-08-14T02:56:57.979Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8128,"time":"2019-08-14T02:57:02.414Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8128,"time":"2019-08-14T02:57:02.557Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8128,"time":"2019-08-14T02:57:02.737Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8128,"time":"2019-08-14T02:57:02.737Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8128,"time":"2019-08-14T02:57:04.632Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8128,"time":"2019-08-14T02:57:04.633Z","msg":"Connected to collector-004.newrelic.com:443 with agent run ID BR9qqZn5Koq_ACUdFRORswddU3j0AAgBAAAnIQEAAB_AAgQTkbMFAwAGNS4xMS4wABhLZW5ueXMtTWFjQm9vay1BaXIubG9jYWwABUNhYmlu.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8128,"time":"2019-08-14T02:57:04.633Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2432277/applications/328315653","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8128,"time":"2019-08-14T02:57:04.644Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8128,"time":"2019-08-14T02:57:05.651Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":8128,"time":"2019-08-14T02:57:05.983Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":14661,"time":"2019-08-14T23:44:25.871Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":14661,"time":"2019-08-14T23:44:26.116Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":14661,"time":"2019-08-14T23:44:26.308Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Kennys-MacBook-Air.local","pid":14661,"time":"2019-08-14T23:44:26.308Z","msg":"Agent state changed from starting to connecting."}

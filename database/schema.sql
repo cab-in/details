@@ -56,7 +56,7 @@ CREATE TABLE spaces(
 /*
 POSTGRES COPY COMMANDS 
 
-\copy listings (title, location, hosts_id, spaces_id, max_guests, room_number, bed_number, bed_type, bath_number, spaceDescIntro, spaceDesc, guestAccessDesc, guestInteraction, others, license) FROM '/Users/Kenny/Listing/listings1.csv' DELIMITER ',' CSV;
+
 \copy hosts (name, pic) FROM '/Users/Kenny/Listing/hosts.csv' DELIMITER ',' CSV;
 \copy listings_highlights (listings_id, highlights_id) FROM '/Users/Kenny/Listing/listings_highlights.csv' DELIMITER ',' CSV;
 \copy highlights (highlights_type) FROM '/Users/Kenny/Listing/highlights.csv' DELIMITER ',' CSV;
@@ -188,3 +188,7 @@ LISTINGS QUERY BY AMENITIES
     insert into listings (title, location, hosts_id, spaces_id, max_guests, room_number, bed_number, bed_type, bath_number, spaceDescIntro, spaceDesc, guestAccessDesc, guestInteraction, others, license) values ('esmes hacker house', 'san francisco', 4, 3, 4, 3, 2, twin, 2, 'six rounds of text here', 'five left', 'dont wanna do this', 'three left', 'two', 'one')
 
 */
+
+
+
+\copy listings (title, location, hosts_id, spaces_id, max_guests, room_number, bed_number, bed_type, bath_number, spaceDescIntro, spaceDesc, guestAccessDesc, guestInteraction, others, license) FROM 'listings2.csv' DELIMITER ',' CSV;
